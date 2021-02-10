@@ -1,12 +1,23 @@
 import Home from "./Home";
 import Navbar from "./Navbar";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Create from "./Create";
+
 function App() {
   return (
-    <div className="app">
-      <Navbar />
-      <h1> Welcome to Ninja Blog</h1>
-      <Home />
-    </div>
+    <Router>
+      <div className="app">
+        <Navbar />
+        <Switch>
+          <Route exact path="/">
+            <Home />
+          </Route>
+          <Route path="/create">
+            <Create />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
