@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ninja-react-app/static/css/main.b1ba430f.chunk.css",
+    "main.js": "/ninja-react-app/static/js/main.4ed9396c.chunk.js",
+    "main.js.map": "/ninja-react-app/static/js/main.4ed9396c.chunk.js.map",
+    "runtime-main.js": "/ninja-react-app/static/js/runtime-main.06e693a3.js",
+    "runtime-main.js.map": "/ninja-react-app/static/js/runtime-main.06e693a3.js.map",
+    "static/js/2.be1974f8.chunk.js": "/ninja-react-app/static/js/2.be1974f8.chunk.js",
+    "static/js/2.be1974f8.chunk.js.map": "/ninja-react-app/static/js/2.be1974f8.chunk.js.map",
+    "index.html": "/ninja-react-app/index.html",
+    "static/css/main.b1ba430f.chunk.css.map": "/ninja-react-app/static/css/main.b1ba430f.chunk.css.map",
+    "static/js/2.be1974f8.chunk.js.LICENSE.txt": "/ninja-react-app/static/js/2.be1974f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e693a3.js",
+    "static/js/2.be1974f8.chunk.js",
+    "static/css/main.b1ba430f.chunk.css",
+    "static/js/main.4ed9396c.chunk.js"
+  ]
+}
